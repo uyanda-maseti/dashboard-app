@@ -1,2 +1,2 @@
-# dashboard-app
-Personal dashboard app
+# My Dashboard App
+A React single-page dashboard app.
